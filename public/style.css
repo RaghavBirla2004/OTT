@@ -1,0 +1,109 @@
+.back{
+  
+    height: 98vh;
+    width: 98vw;
+    background-image: linear-gradient(rgba(29, 35, 61, 0.7),rgba(4,9,30,0.7)), url("https://images.thedirect.com/media/article_full/avatar-way-of-water-jake-sully-disney.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+}
+
+.content{
+    padding-top: 200px;
+    padding-right: 800px;
+}
+.head{
+    font-weight: 50;
+    text-align: center;
+    color: hsl(270, 12%, 80%);
+   margin-top: 10px;
+
+}
+.title{
+    color: cyan;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.info{
+    text-align: center;
+}
+.rate,.time,.year{
+    color: white;
+    text-align: center;
+}
+.minfo{
+    color:hsl(270, 12%, 80%);
+    text-align: center;
+    width: 300px;
+    margin-left: 200px;
+}
+.watch{
+    color: black;
+    height: 40px;
+    width: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+    margin-left: 300px;
+    border-radius: 12px;
+    background-color: rgb(41, 232, 47);
+    padding: 10px;
+}
+.watch:hover{
+    background-color: rgb(66, 245, 21);
+}
+.head{
+    margin-left: 900px;
+    padding-top: 20px;
+}
+.head p{
+    
+    color: black;
+    display: inline;
+    padding-left: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    border-radius: 25px;
+    background-color: rgb(0, 255, 0);
+   padding: 8px;
+   margin-left: 10px;
+ 
+    
+}
+.top{
+    color: hsl(270, 12%, 80%);
+    margin-left: 200px;
+   
+}
+.head a{
+    text-decoration: none;
+}
+
+/* .sub1, .sub2{
+    height: 300px;
+    width: 350px;
+    display: none;
+    
+    
+} */
+/* .sub1{
+    background-color: red;
+    margin-left: 300px;
+    margin-top: 200px;
+}
+.sub2{
+    background-color:orange;
+    margin-left: 100px;
+    margin-top: 200px;
+} */
+
+/* button{
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
+    margin-left: 120px;
+    margin-top: 20px;
+    background-color: green;
+    color: white;
+} */
+
